@@ -234,7 +234,7 @@ var data = {
       children: [
         {
           name: 'Frameworks',
-          sizePercent: '50%',
+          sizePercent: '90%',
           children: [
             {
               name: 'Laravel',
@@ -252,6 +252,7 @@ var data = {
         },
         {
           name: 'Static analyzers',
+          sizePercent: '5%',
           children: [
             {
               name: 'CS-Fixer'
@@ -272,6 +273,7 @@ var data = {
         },
         {
           name: 'Tests',
+          sizePercent: '5%',
           children: [
             {
               name: 'PHPUnit',
