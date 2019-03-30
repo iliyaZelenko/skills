@@ -16,6 +16,10 @@ var data = {
           sizePercent: '5%',
         },
         {
+          name: 'GraphQL',
+          sizePercent: '5%'
+        },
+        {
           name: 'Template engines',
           sizePercent: '5%',
           children: [
@@ -108,6 +112,9 @@ var data = {
                 },
                 {
                   name: 'Full TypeScript integration'
+                },
+                {
+                  name: 'Apollo (GraphQL)'
                 },
                 {
                   name: 'Style guide (best practices)'
@@ -285,6 +292,9 @@ var data = {
             }
           ]
         },
+        {
+          name: 'GraphQL'
+        }
       ],
     },
     {
