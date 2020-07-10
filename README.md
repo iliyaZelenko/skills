@@ -1,1 +1,1 @@
-[![Image](https://i.imgur.com/ecOLjxM.png)](https://iliyazelenko.github.io/skills/)
+[![Image](https://bit.ly/2AJYUVs)](https://iliyazelenko.github.io/skills/)
